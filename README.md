@@ -1,12 +1,10 @@
 #### Lecture 1: Difference between Supervised Learning & Unsupervised Learning
-#### Objectives:
 - Defining Machine Learning: What can ML do?
 - How ML works?
 - Machine Learning terminologies
 - Supervised Learning, Unsupervised Learning, Deep Learning
 
 #### Lecture 2: Supervised Learning: Linear Regression
-#### Objectives:
 - Supervised Learning: Linear Regression
 - train data, test data
 - Understanding the equation of a straight line
@@ -19,3 +17,13 @@
 - ordinary least square method
 - gradient descent method
 - residual, error, squared error, RMSE - Root Mean Squared Error
+
+#### Lecture 3: Supervised Learning: Linear Regression and Regression accuracy metrics
+- Supervised Learning: Linear Regression
+- Accuracy metric in Regression problem
+- Mean Absolute Error (MAE)
+- Mean Absolute Percentage Error (MAPE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R-squared or coefficient of determination
+- Prediction result evaluation
