@@ -37,3 +37,6 @@
 - Accuracy, Precision, Recall/Sensitivity/True Positive Rate, F1 score, False Positive Rate
 - ROC: Receiver Operating Characterisitcs and AUC: Area Under the Curve
 - Classification report
+
+#### Lecture 6: Supervised Learning - Decision Tree
+- Decision Tree Classification and Regression
