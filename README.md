@@ -29,5 +29,11 @@
 - Prediction result evaluation
 
 #### Lecture 4: Supervised Learning - Classification: Logistic Regression
-Supervised Learning - Classification: Logistic Regression
+- Supervised Learning - Classification: Logistic Regression
 
+#### Lecture 5: Supervised Learning - Classification: Accuracy Metrics
+- Supervised Learning - Classification: Logistic Regression
+- Confusion Matrix
+- Accuracy, Precision, Recall/Sensitivity/True Positive Rate, F1 score, False Positive Rate
+- ROC: Receiver Operating Characterisitcs and AUC: Area Under the Curve
+- Classification report
