@@ -27,3 +27,7 @@
 - Root Mean Squared Error (RMSE)
 - R-squared or coefficient of determination
 - Prediction result evaluation
+
+#### Lecture 4: Supervised Learning - Classification: Logistic Regression
+Supervised Learning - Classification: Logistic Regression
+
