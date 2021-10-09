@@ -40,3 +40,8 @@
 
 #### Lecture 6: Supervised Learning - Decision Tree
 - Decision Tree Classification and Regression
+
+#### Lecture 7: Supervised Learning - Decision Tree, Cross-validation and Grid Search
+- Decision Tree Classification
+- Cross-Validation
+- Grid Search
