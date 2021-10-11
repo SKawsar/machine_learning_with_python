@@ -45,3 +45,8 @@
 - Decision Tree Classification
 - Cross-Validation
 - Grid Search
+
+#### Lecture 8: Unsupervised Learning - K-means Clustering 
+- Unsupervised Learning
+- K-means Clustering
+- Elbow method
